@@ -1,4 +1,13 @@
-# Hi, I'm VastoLordeX 🚀
+<p align="center">
+  <!-- Typing animation (live SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff7ab6&center=true&width=760&lines=Hi,+I'm+VastoLordeX.;Game+Modder+%7C+PC+%E2%86%92+Android+Porter;Bot+Developer+%7C+Reverse+Engineer" alt="Typing animation"/>
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/NEO-Light%20Theme-ff7ab6?style=for-the-badge&logo=neovim" alt="Neo Light"/>
