@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 Game Modder | 📱 PC → Android Porter | 🤖 Bot Developer
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## About Me
@@ -23,7 +23,7 @@ Game Modder | 📱 PC → Android Porter | 🤖 Bot Developer
 - 🌏 Based in Myanmar
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## 🧰 Tech & Tools
@@ -33,7 +33,7 @@ Game Modder | 📱 PC → Android Porter | 🤖 Bot Developer
 - Tools: `Android Studio`, `APKTool`, `FFmpeg`, `Git`
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## 🚀 Current Projects
@@ -42,7 +42,7 @@ Game Modder | 📱 PC → Android Porter | 🤖 Bot Developer
 - 🔹 Mod menus & trainers
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## 📊 GitHub Stats
@@ -54,7 +54,7 @@ Game Modder | 📱 PC → Android Porter | 🤖 Bot Developer
 [![Linux](https://img.shields.io/badge/Linux-Kali-blue)](https://www.kali.org)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## Donations
@@ -67,8 +67,7 @@ Support the work — thank you!
 </a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
-</p>
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ## Projects & Examples
 This repository is a profile/landing repo. Add subfolders for:
@@ -78,14 +77,14 @@ This repository is a profile/landing repo. Add subfolders for:
 - `assets/`         — images, banners, example builds
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 ## Contributing
 If you want to contribute or report an issue, open an issue or a PR. See CONTRIBUTING.md for guidelines.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="neo-divider"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 > ⚔️ "Experiment. Break. Learn. Repeat."
